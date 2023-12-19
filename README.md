@@ -1,6 +1,6 @@
 # TextSpeak Bot
 
-- Developed a user-friendly interface allowing users to choosefrom a variety of voices.
+- Developed a user-friendly interface allowing users to choose from a variety of voices.
   
 - Implemented algorithms to convert written text into audible speech.
   
